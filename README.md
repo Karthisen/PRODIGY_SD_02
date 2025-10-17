@@ -1,4 +1,5 @@
 PRODIGY_SD_02 - Guessing Game Program
+
 How It Works
 - The program uses random.randint(1, 100) to generate a secret number.
 - It keeps track of how many guesses you make using the attempts counter.
